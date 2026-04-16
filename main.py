@@ -2,10 +2,10 @@ import smtplib
 from email.mime.text import MIMEText
 
 # SMTP Configuration
-SMTP_SERVER = "worldepic.gr"  # Replace with actual SMTP server
+SMTP_SERVER = ""  # Replace with actual SMTP server
 SMTP_PORT = 587  # 465 for SSL, 587 for TLS
-USERNAME = "info@worldepic.gr"
-PASSWORD = "ia0563l$I"
+USERNAME = ""
+PASSWORD = ""
 
 # Email Details
 sender_email = "info@worldepic.gr"
